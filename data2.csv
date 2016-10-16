@@ -1,0 +1,572 @@
+,CATEGORY,TIME,MODALITY,SECTOR,SUBSECTOR
+0,"Fires",11:45,,2,1
+1,Car Run Over People,21:34,Driver Recklessness,4,2
+2,Car Crash,08:29,Driver Recklessness,4,4
+3,"Fires",12:26,,3,2
+4,Car Run Over People,04:53,Driver Recklessness,2,5
+5,Car Crash,06:40,Speeding,1,2
+6,Car Crash,18:16,Driver Recklessness,4,1
+7,Car Run Over People,19:56,Driver Recklessness,3,2
+8,Car Crash,03:38,Driver Recklessness,1,5
+9,Car Crash,16:49,Driver Recklessness,3,2
+10,"Fires",17:45,,4,3
+11,Car Cluelessness,15:15,Driver Recklessness,4,2
+12,People Falls,06:51,,1,1
+13,Car Cluelessness,12:26,Driver Recklessness,2,1
+14,Car Crash,17:41,Driver Recklessness,1,5
+16,Car Crash,16:34,Driver Recklessness,4,2
+17,Car Cluelessness,20:05,Driver Recklessness,1,5
+18,Car Crash,14:33,Speeding,3,2
+
+23,Car Crash,19:21,Driver Recklessness,5,3
+24,Car Cluelessness,20:31,Speeding,1,4
+25,Car Run Over People,21:11,Driver Recklessness,1,5
+26,"Fires",21:08,,4,2
+27,People Falls,12:41,,4,2
+28,Car Crash,20:03,Driver Recklessness,1,1
+29,"Fires",21:55,,3,3
+30,"Fires",15:55,,2,7
+31,Car Run Over People,16:15,Driver Recklessness,3,1
+32,Car Crash,15:39,Speeding,4,3
+33,Car Crash,16:30,Driver Recklessness,1,3
+34,Car Crash,17:56,Speeding,4,2
+35,Car Crash,18:17,Speeding,5,3
+36,Car Crash,19:06,Speeding,4,1
+37,Car Crash,19:17,Speeding,5,1
+38,Car Crash,18:46,Driver Recklessness,1,1
+39,Car Crash,18:51,Driver Recklessness,1,1
+40,Car Crash,05:02,Driver Recklessness,5,4
+41,Car Crash,13:14,Driver Recklessness,3,3
+42,Car Crash,15:45,Driver Recklessness,3,3
+43,Car Crash,17:28,Driver Recklessness,2,6
+44,Car Crash,17:22,Speeding,4,1
+45,People Falls,19:47,,4,3
+46,"Fires",11:08,,2,7
+47,Car Crash,11:11,Speeding,3,3
+48,Gas leak,10:34,,3,3
+49,Car Crash,10:07,Speeding,1,5
+50,People Falls,07:23,,2,4
+51,People Falls,09:53,,3,1
+52,Car Crash,11:40,Driver Recklessness,4,1
+53,Car Cluelessness,13:48,Driver Recklessness,5,4
+54,People Falls,06:58,,4,2
+55,Car Run Over People,07:43,Driver Recklessness,5,3
+56,Car Crash,08:12,Driver Recklessness,1,1
+57,Car Crash,09:54,Driver Recklessness,3,3
+58,Car Crash,09:27,Driver Recklessness,3,1
+80,Car Rollover,01:52,Speeding,5,1
+81,Car Crash,06:38,Speeding,1,3
+82,Car Crash,18:05,Speeding,5,3
+83,"Fires",18:20,,4,3
+84,Car Crash,21:11,Driver Recklessness,2,3
+85,Car Run Over People,08:07,Driver Recklessness,3,1
+86,Car Cluelessness,16:11,Driver Recklessness,4,3
+87,Car Crash,10:17,Driver Recklessness,2,5
+88,Car Crash,15:59,Speeding,1,3
+89,"Fires",06:06,,5,1
+90,Car Run Over People,10:39,Contempt traffic signal,3,3
+91,Car Crash,17:45,Driver Recklessness,5,1
+92,Car Cluelessness,18:15,Driver Recklessness,5,2
+93,Car Crash,20:12,Speeding,1,1
+94,Car Crash,11:49,Speeding,1,2
+95,Car Crash,10:02,Driver Recklessness,1,5
+96,Car Run Over People,18:28,Driver Recklessness,4,2
+97,Car Crash,08:35,Driver Recklessness,1,2
+98,Car Crash,14:31,Driver Recklessness,3,2
+99,Car Crash,16:00,Driver Recklessness,1,6
+100,Car Crash,19:31,Speeding,3,3
+101,Car Crash,19:16,Speeding,1,5
+102,Car Crash,19:40,Speeding,1,2
+103,"Flood",23:33,,1,5
+104,Car Crash,10:28,Driver Recklessness,3,1
+105,Car Crash,10:48,Speeding,1,5
+106,Car Crash,10:32,Speeding,1,2
+107,Car Cluelessness,14:33,Speeding,5,2
+108,Car Crash,19:47,Ebriedad del conductor,3,3
+109,"Flood",01:32,,3,3
+110,Car Crash,10:29,Speeding,3,2
+111,"Flood",22:55,,2,4
+112,Car Run Over People,09:18,Speeding,2,7
+113,Car Crash,13:46,Speeding,1,3
+114,Car Crash,17:09,Speeding,1,2
+115,Car Crash,10:58,Speeding,3,1
+116,Car Crash,13:26,Speeding,4,4
+117,Car Crash,08:15,Speeding,3,1
+118,Car Crash,07:12,Speeding,1,4
+119,People Falls,09:43,,2,5
+120,Car Cluelessness,08:20,Speeding,1,2
+121,Car Crash,09:30,Speeding,1,6
+122,Car Crash,11:57,Speeding,3,3
+123,Car Crash,12:10,Speeding,1,2
+124,"Fires",13:55,,4,4
+125,People Falls,09:00,,2,1
+126,Car Crash,10:57,Driver Recklessness,5,1
+127,Car Crash,11:00,Driver Recklessness,3,2
+128,Car Crash,11:15,Speeding,4,4
+129,"Flood",08:47,,2,5
+130,Car Crash,11:53,Contempt traffic signal,3,1
+131,Car Crash,16:42,Driver Recklessness,3,1
+132,Car Crash,09:55,Driver Recklessness,1,2
+133,Car Crash,10:18,Driver Recklessness,3,2
+134,Car Crash,11:51,Driver Recklessness,2,2
+135,"Fires",20:19,,3,3
+136,People Falls,04:18,,4,1
+137,Car Crash,05:28,Speeding,5,1
+138,Car Crash,23:53,Speeding,1,1
+139,Car Crash,04:15,Speeding,1,6
+140,Car Crash,12:34,Driver Recklessness,4,4
+141,People Falls,19:13,,5,4
+142,Car Crash,21:30,Speeding,3,2
+143,Car Crash,07:17,Driver Recklessness,3,1
+144,Car Crash,09:03,Driver Recklessness,1,6
+145,Car Crash,13:18,Driver Recklessness,1,1
+146,People Falls,19:18,,5,2
+147,Car Crash,12:09,Speeding,1,1
+148,Car Crash,15:20,Driver Recklessness,3,3
+149,Car Rollover,17:41,Driver Recklessness,4,3
+150,Car Crash,17:45,Speeding,4,3
+156,Car Crash,19:10,Speeding,1,3
+157,Car Crash,08:43,Falla mecánica,1,3
+158,Car Crash,16:04,Driver Recklessness,1,2
+159,People Falls,15:41,,5,1
+160,Car Crash,20:14,Speeding,4,2
+161,Car Crash,10:36,Speeding,1,5
+162,Car Crash,16:04,Driver Recklessness,2,6
+163,Car Crash,08:12,Driver Recklessness,1,6
+164,Gas leak,15:54,,1,2
+165,Car Crash,17:47,Speeding,1,5
+166,People Falls,08:45,,1,1
+167,Car Crash,08:25,Speeding,1,3
+168,Car Crash,10:05,Speeding,1,4
+169,Car Crash,17:33,Speeding,5,2
+170,Car Crash,10:04,Speeding,3,1
+171,Car Crash,10:09,Speeding,3,2
+172,Car Run Over People,15:12,Driver Recklessness,4,1
+173,Car Cluelessness,16:06,Speeding,2,1
+174,Car Crash,08:02,Speeding,4,2
+175,Car Crash,08:29,Speeding,4,2
+176,People Falls,08:38,,3,1
+177,Car Crash,11:01,Speeding,4,4
+178,"Fires",20:55,,4,4
+179,Car Cluelessness,11:16,Speeding,5,3
+188,Car Cluelessness,13:20,Driver Recklessness,5,2
+189,Car Crash,13:21,Driver Recklessness,4,2
+190,Car Run Over People,08:16,Speeding,2,1
+191,Car Crash,14:10,Driver Recklessness,4,3
+192,People Falls,07:32,,4,3
+193,Car Crash,08:02,Speeding,5,4
+194,People Falls,12:10,,4,3
+195,Car Crash,21:42,Driver Recklessness,5,4
+196,Car Crash,16:38,Speeding,1,6
+197,Car Crash,19:23,Speeding,1,5
+198,Car Cluelessness,05:03,Speeding,5,3
+199,Car Crash,20:57,Speeding,1,2
+200,Car Crash,14:12,Speeding,3,1
+201,Car Run Over People,15:54,Driver Recklessness,4,3
+202,Car Crash,16:51,Driver Recklessness,5,4
+203,Car Crash,16:35,Driver Recklessness,2,2
+204,Car Crash,17:12,Driver Recklessness,3,3
+205,Car Crash,19:47,Driver Recklessness,1,2
+206,Car Crash,22:54,Speeding,1,5
+207,People Falls,05:28,,2,7
+208,Car Crash,16:10,Driver Recklessness,4,3
+209,Car Crash,21:59,Driver Recklessness,5,4
+210,Car Cluelessness,05:22,Speeding,5,2
+211,Car Cluelessness,00:37,Speeding,5,1
+212,Car Crash,01:52,Driver Recklessness,3,3
+213,Car Crash,14:40,Driver Recklessness,2,1
+214,Car Crash,17:02,Speeding,2,1
+215,Car Cluelessness,17:15,Driver Recklessness,5,3
+216,Car Crash,16:24,Driver Recklessness,4,1
+217,People Falls,18:40,,3,3
+218,Car Crash,16:40,Speeding,2,3
+219,Car Cluelessness,21:26,Driver Recklessness,4,4
+220,Car Crash,15:35,Driver Recklessness,1,2
+221,Car Crash,18:57,Speeding,5,3
+222,People Falls,19:12,,4,1
+223,Car Crash,17:06,Speeding,4,4
+224,Car Crash,20:07,Speeding,5,2
+225,Car Crash,08:23,Driver Recklessness,5,4
+226,Car Crash,09:33,Driver Recklessness,3,3
+227,Car Crash,12:54,Driver Recklessness,4,2
+228,Gas leak,16:32,,4,4
+229,Car Crash,18:46,Driver Recklessness,2,2
+230,Car Crash,20:01,Driver Recklessness,2,6
+231,Car Run Over People,20:13,Driver Recklessness,3,2
+237,Car Crash,16:49,Speeding,4,2
+238,People Falls,17:34,,2,7
+239,Car Crash,17:29,Speeding,4,1
+240,Car Crash,15:38,Driver Recklessness,1,1
+241,Car Crash,17:04,Driver Recklessness,3,2
+242,Car Crash,19:46,Driver Recklessness,3,1
+243,Car Crash,20:59,Speeding,4,3
+244,Car Crash,08:07,Driver Recklessness,1,6
+245,Car Crash,09:50,Speeding,4,1
+246,Car Crash,08:44,Driver Recklessness,3,1
+247,Car Crash,07:00,Speeding,1,5
+248,Car Crash,07:46,Driver Recklessness,3,1
+249,People Falls,08:02,,2,2
+250,Car Crash,09:22,Driver Recklessness,1,2
+251,Car Crash,11:41,Speeding,3,3
+252,Car Crash,09:54,Speeding,1,3
+253,People Falls,12:12,,1,2
+254,Car Crash,12:51,Speeding,2,6
+255,Car Crash,08:41,Speeding,5,1
+265,Car Run Over People,07:36,Imprudencia del peatón,5,2
+266,Car Cluelessness,09:46,Speeding,1,6
+267,Car Crash,11:06,Speeding,1,1
+268,Car Crash,09:48,Speeding,2,2
+269,Car Crash,13:01,Driver Recklessness,5,2
+270,Car Crash,13:15,Driver Recklessness,4,2
+271,Car Crash,14:15,Speeding,1,1
+272,Car Crash,14:15,Speeding,2,6
+273,Car Cluelessness,06:38,Speeding,5,3
+282,Car Crash,12:23,Speeding,1,5
+283,Car Cluelessness,03:51,Speeding,5,1
+284,Car Crash,19:08,Speeding,1,1
+285,Car Crash,00:08,Speeding,4,1
+286,Car Cluelessness,00:11,Speeding,5,2
+287,Car Crash,19:05,Speeding,1,5
+288,Car Crash,16:47,Driver Recklessness,5,1
+289,Car Crash,11:43,Driver Recklessness,1,1
+290,Car Crash,14:15,Driver Recklessness,1,5
+291,Car Crash,16:42,Driver Recklessness,1,1
+292,Car Crash,17:04,Driver Recklessness,3,2
+293,Car Run Over People,19:05,Driver Recklessness,3,1
+294,People Falls,17:43,,4,2
+295,Car Crash,20:37,Speeding,5,1
+296,Car Cluelessness,01:07,Speeding,1,3
+297,Car Cluelessness,01:07,Speeding,1,3
+298,Car Crash,17:11,Speeding,3,3
+299,Car Crash,08:23,Speeding,2,2
+300,People Falls,16:15,,4,3
+301,Car Crash,16:55,Speeding,5,1
+302,Car Crash,15:34,Driver Recklessness,2,2
+303,Car Crash,16:10,Driver Recklessness,3,2
+304,Car Crash,18:00,Speeding,5,3
+305,Car Crash,18:27,Speeding,5,1
+306,Car Cluelessness,18:59,Speeding,5,1
+307,Car Crash,19:19,Speeding,2,7
+308,Car Crash,19:46,Driver Recklessness,3,3
+309,Car Crash,10:43,Speeding,1,2
+310,Car Crash,16:56,Speeding,5,4
+311,Car Crash,18:24,Speeding,5,2
+312,People Falls,17:26,,3,3
+313,Car Run Over People,18:28,Speeding,4,3
+314,Car Crash,19:03,Speeding,4,3
+315,Car Crash,18:54,Speeding,5,1
+316,Car Cluelessness,08:05,Driver Recklessness,3,2
+317,Car Crash,08:32,Driver Recklessness,1,5
+318,Car Crash,08:57,Driver Recklessness,1,5
+319,Car Crash,09:15,Driver Recklessness,2,5
+320,Car Crash,10:24,Driver Recklessness,3,2
+321,"Flood",12:02,,4,2
+322,Car Crash,10:50,Speeding,1,1
+323,Car Crash,11:01,Speeding,1,2
+324,Car Crash,12:08,Driver Recklessness,4,2
+325,Car Crash,12:34,Speeding,1,2
+326,Car Crash,09:31,Speeding,5,1
+327,Car Cluelessness,20:32,Speeding,1,4
+328,Car Crash,08:09,Speeding,1,4
+329,Car Crash,08:22,Speeding,1,5
+330,Car Crash,08:48,Driver Recklessness,5,2
+331,Car Crash,14:43,Speeding,3,1
+332,Car Crash,14:00,Speeding,1,5
+333,People Falls,13:40,,3,2
+334,"Flood",07:19,,5,1
+335,Car Crash,08:54,Speeding,4,3
+336,Car Cluelessness,09:53,Driver Recklessness,1,4
+337,"Flood",10:06,,5,2
+338,Car Crash,11:28,Speeding,4,3
+339,Gas leak,17:41,,1,5
+340,Car Crash,09:59,Speeding,3,3
+341,Car Crash,08:13,Speeding,1,2
+342,Car Crash,13:24,Speeding,2,1
+343,Car Crash,13:53,Driver Recklessness,4,1
+344,Car Crash,13:29,Speeding,3,3
+345,Car Crash,14:03,Driver Recklessness,4,1
+346,Car Run Over People,14:06,Driver Recklessness,4,1
+347,Car Crash,14:50,Speeding,1,6
+348,Car Crash,16:05,Driver Recklessness,3,1
+349,Car Run Over People,09:36,Driver Recklessness,1,6
+350,Car Crash,09:54,Speeding,4,4
+351,Car Crash,10:23,Speeding,4,3
+352,Car Crash,08:57,Driver Recklessness,3,3
+353,People Falls,09:02,,1,1
+354,Car Crash,11:01,Speeding,5,3
+355,Car Crash,12:14,Speeding,5,1
+356,Car Crash,10:56,Driver Recklessness,1,3
+357,Car Crash,11:32,Driver Recklessness,2,2
+358,Car Crash,15:04,Driver Recklessness,2,2
+359,Car Crash,06:16,Driver Recklessness,1,1
+360,Car Crash,10:43,Speeding,5,1
+361,"Flood",08:52,,3,1
+362,"Fires",14:50,,1,2
+363,Car Crash,02:22,Driver Recklessness,5,1
+365,Car Crash,22:25,Driver Recklessness,2,2
+366,Car Crash,23:24,Speeding,4,1
+367,Car Cluelessness,05:00,Driver Recklessness,1,1
+368,Car Crash,14:06,Driver Recklessness,3,1
+369,Car Crash,14:40,Driver Recklessness,5,4
+370,Car Run Over People,16:04,Speeding,1,2
+371,Car Rollover,15:00,Driver Recklessness,1,1
+372,Car Run Over People,16:18,Imprudencia del peatón,1,2
+402,Car Crash,08:38,Speeding,4,3
+403,Car Crash,09:15,Speeding,3,2
+404,"Fires",13:00,,3,2
+405,Car Crash,13:52,Speeding,3,2
+406,Car Crash,14:14,Driver Recklessness,4,1
+407,Car Crash,08:24,Speeding,3,3
+408,Car Crash,16:20,Driver Recklessness,4,4
+409,Car Crash,06:48,Speeding,4,4
+410,Car Crash,08:34,Speeding,1,3
+411,Car Crash,09:11,Driver Recklessness,5,4
+412,Car Crash,09:43,Driver Recklessness,4,2
+413,Car Crash,13:02,Ebriedad del conductor,1,3
+414,Car Cluelessness,10:48,Driver Recklessness,4,1
+415,Car Crash,13:27,Driver Recklessness,4,2
+416,Car Crash,08:19,Driver Recklessness,1,6
+417,Car Crash,06:49,Speeding,4,3
+418,Car Crash,10:56,Speeding,4,3
+419,Car Crash,11:13,Speeding,4,3
+420,Car Crash,14:55,Speeding,5,3
+421,Car Crash,19:15,Driver Recklessness,1,5
+423,Car Crash,12:21,Speeding,3,2
+424,Car Cluelessness,16:34,Driver Recklessness,3,2
+425,Car Cluelessness,06:25,Speeding,4,3
+426,Car Crash,15:28,Driver Recklessness,5,4
+427,Car Crash,15:59,Driver Recklessness,2,3
+428,Car Run Over People,17:29,Speeding,2,3
+429,Car Cluelessness,17:30,Contempt traffic signal,2,3
+430,Car Crash,14:48,Contempt traffic signal,1,1
+431,Car Crash,10:45,Contempt traffic signal,3,2
+432,Car Crash,03:10,Ebriedad del conductor,2,3
+433,Car Crash,03:00,Contempt traffic signal,2,2
+434,People Falls,21:20,,2,1
+435,Car Crash,12:16,Speeding,5,2
+436,Car Crash,13:30,Contempt traffic signal,1,3
+437,Car Crash,09:55,Contempt traffic signal,1,4
+438,Car Crash,01:30,Contempt traffic signal,1,1
+439,Car Crash,14:30,Contempt traffic signal,2,2
+440,Car Crash,08:20,Contempt traffic signal,1,2
+441,Car Crash,14:08,Driver Recklessness,3,2
+442,Car Crash,16:35,Speeding,4,1
+443,Car Crash,21:17,Driver Recklessness,3,2
+444,Car Crash,07:42,Driver Recklessness,3,3
+445,Car Crash,15:12,Speeding,5,2
+446,Car Cluelessness,19:14,Speeding,5,3
+447,Car Crash,21:39,Speeding,5,1
+467,People Falls,15:34,,5,2
+468,Car Crash,16:08,Speeding,4,4
+469,Car Crash,17:44,Driver Recklessness,2,5
+470,Car Crash,09:42,Driver Recklessness,4,3
+471,Car Crash,10:16,Driver Recklessness,1,1
+472,Car Crash,11:19,Speeding,2,5
+473,Car Crash,17:06,Speeding,1,3
+474,Car Crash,18:50,Driver Recklessness,5,2
+475,Car Crash,19:15,Speeding,3,2
+476,Car Crash,20:22,Driver Recklessness,4,3
+477,Car Crash,20:28,Driver Recklessness,4,2
+478,Car Crash,07:10,Speeding,2,2
+479,Car Crash,12:30,Speeding,2,7
+480,Car Crash,20:01,Driver Recklessness,2,6
+481,Car Crash,19:08,Driver Recklessness,1,5
+482,Car Crash,13:25,Driver Recklessness,4,2
+483,Car Crash,14:03,Speeding,1,2
+484,Car Crash,15:06,Driver Recklessness,3,3
+485,"Flood",23:11,,4,3
+486,Car Cluelessness,07:08,Speeding,5,3
+487,Car Crash,12:05,Driver Recklessness,2,2
+488,Car Crash,12:52,Speeding,4,2
+489,Car Crash,13:30,Driver Recklessness,3,1
+490,"Flood",21:23,,4,3
+491,Car Crash,13:26,Speeding,1,1
+492,Car Crash,09:46,Driver Recklessness,1,6
+493,Car Crash,12:28,Speeding,5,4
+494,Car Crash,13:55,Speeding,4,3
+495,Car Crash,07:30,Contempt traffic signal,2,7
+496,People Falls,08:22,,3,3
+497,Car Crash,09:15,Speeding,2,1
+498,"Flood",10:05,,4,4
+499,Car Crash,10:24,Speeding,1,6
+500,Car Crash,10:32,Speeding,1,4
+501,Car Crash,10:53,Speeding,3,3
+502,Car Crash,11:40,Speeding,1,1
+503,People Falls,14:20,,1,3
+504,People Falls,14:51,,1,1
+505,Car Crash,07:48,Driver Recklessness,1,1
+506,Car Crash,08:12,Speeding,4,2
+507,Car Crash,08:40,Driver Recklessness,1,6
+508,Car Crash,08:49,Driver Recklessness,3,3
+510,Car Crash,11:15,Driver Recklessness,3,3
+511,"Fires",11:20,,3,1
+512,Car Cluelessness,12:48,Driver Recklessness,2,7
+513,Car Crash,13:35,Driver Recklessness,4,3
+514,Car Crash,09:08,Driver Recklessness,5,1
+515,Car Crash,11:06,Speeding,2,5
+516,Car Crash,13:11,Driver Recklessness,4,4
+517,Car Crash,15:26,Driver Recklessness,4,3
+518,Car Crash,23:16,Driver Recklessness,1,2
+520,Car Crash,23:33,Speeding,3,2
+521,Car Run Over People,07:03,Driver Recklessness,2,2
+522,Car Cluelessness,05:19,Speeding,5,4
+523,Car Crash,08:34,Driver Recklessness,2,6
+524,Breakdown Voltage,01:01,,1,1
+525,Car Run Over People,22:14,Ebriedad del conductor,4,1
+535,Car Crash,15:18,Speeding,2,2
+536,Car Crash,15:50,Driver Recklessness,1,2
+537,Car Crash,20:51,Driver Recklessness,5,3
+538,Car Crash,04:26,Driver Recklessness,3,3
+539,Car Crash,17:32,Driver Recklessness,2,6
+540,Car Crash,19:18,Driver Recklessness,2,1
+541,People Falls,18:30,,3,3
+542,Car Crash,18:14,Driver Recklessness,5,1
+543,Car Crash,19:27,Driver Recklessness,2,1
+544,"Flood",04:20,,1,1
+545,"Fires",10:47,,1,6
+546,Car Crash,13:32,Driver Recklessness,1,3
+547,Car Crash,16:39,Speeding,4,1
+548,Car Crash,18:16,Speeding,4,2
+549,Car Crash,21:16,Speeding,5,3
+550,Car Crash,21:34,Speeding,5,1
+551,Car Cluelessness,16:24,Speeding,2,2
+552,Car Crash,16:44,Driver Recklessness,4,2
+553,Car Crash,16:47,Speeding,2,2
+554,Car Crash,19:27,Driver Recklessness,2,3
+555,Car Crash,19:13,Speeding,5,2
+556,Car Cluelessness,08:25,Speeding,5,3
+557,Car Cluelessness,09:02,Imprudencia del peatón,3,3
+558,Car Crash,09:36,Driver Recklessness,3,3
+559,Car Crash,09:48,Driver Recklessness,2,2
+560,Car Crash,10:30,Speeding,4,2
+561,Car Crash,11:43,Speeding,4,2
+562,Car Crash,10:32,Driver Recklessness,1,4
+563,Car Crash,11:01,Driver Recklessness,1,1
+564,Car Crash,13:14,Driver Recklessness,1,2
+565,Car Crash,13:26,Speeding,4,4
+566,"Flood",16:10,,3,2
+567,"Flood",16:14,,3,2
+568,Car Crash,13:03,Driver Recklessness,3,3
+569,Car Crash,11:45,Driver Recklessness,2,5
+570,Car Crash,07:50,Driver Recklessness,1,3
+571,Car Crash,07:12,Contempt traffic signal,4,2
+573,Car Crash,10:18,Driver Recklessness,4,4
+574,Car Crash,09:30,Driver Recklessness,2,4
+575,Car Crash,13:14,Driver Recklessness,2,7
+576,Car Crash,13:15,Driver Recklessness,3,3
+577,People Falls,16:01,,1,3
+578,Car Crash,08:11,Driver Recklessness,4,4
+579,Car Crash,10:22,Driver Recklessness,5,1
+580,Car Crash,10:55,Driver Recklessness,3,1
+581,Car Crash,13:07,Speeding,1,3
+582,Car Crash,14:12,Driver Recklessness,5,1
+583,Car Crash,14:58,Driver Recklessness,4,4
+584,Car Crash,08:07,Speeding,4,1
+585,Car Crash,08:43,Speeding,5,4
+586,Car Crash,08:10,Driver Recklessness,2,7
+587,Car Crash,09:46,Speeding,4,1
+588,Car Run Over People,09:27,Speeding,4,1
+589,People Falls,09:54,,2,6
+590,Car Crash,11:54,Driver Recklessness,1,4
+591,People Falls,13:28,,4,3
+592,Car Crash,14:38,Speeding,4,2
+604,"Flood",16:13,,4,4
+605,"Flood",17:58,,5,1
+606,Car Cluelessness,21:41,Driver Recklessness,1,5
+607,Car Crash,03:30,Speeding,2,2
+608,Car Crash,10:40,Driver Recklessness,5,2
+609,Car Crash,09:55,Speeding,2,7
+610,Car Crash,11:28,Speeding,1,1
+611,Car Crash,11:30,Speeding,1,2
+612,Car Crash,13:07,Speeding,1,2
+613,Car Crash,08:19,Driver Recklessness,4,1
+614,"Fires",17:09,,3,1
+615,Car Crash,08:16,Speeding,4,1
+616,Car Crash,08:10,Speeding,4,2
+617,Car Run Over People,13:20,Driver Recklessness,5,3
+618,Car Crash,14:58,Driver Recklessness,1,2
+619,Car Crash,10:32,Speeding,1,5
+620,Car Crash,13:30,Driver Recklessness,4,1
+621,Car Cluelessness,15:01,Speeding,5,4
+622,Car Crash,08:07,Speeding,3,3
+623,"Flood",08:08,,1,3
+624,Car Crash,14:35,Speeding,4,1
+625,Car Crash,14:38,Speeding,4,1
+626,Car Crash,15:24,Speeding,5,2
+627,Car Crash,18:49,Speeding,4,3
+628,"Flood",19:03,,3,1
+639,Car Crash,13:37,Driver Recklessness,3,3
+640,Car Crash,10:18,Driver Recklessness,5,1
+641,Car Crash,14:57,Driver Recklessness,1,3
+642,Car Cluelessness,15:27,Driver Recklessness,4,4
+643,"Flood",16:59,,3,1
+644,"Fires",17:48,,2,6
+645,Gas leak,19:32,,2,1
+646,"Flood",01:16,,2,5
+647,"Flood",01:56,,4,3
+648,Car Crash,08:55,Driver Recklessness,1,1
+649,Car Crash,14:36,Speeding,3,2
+650,Car Crash,07:44,Driver Recklessness,5,2
+651,Car Crash,09:04,Driver Recklessness,4,1
+652,Car Crash,09:45,Driver Recklessness,3,2
+653,People Falls,20:12,,4,1
+654,Car Crash,09:14,Driver Recklessness,1,5
+655,Car Crash,17:08,Driver Recklessness,1,5
+656,Car Crash,19:09,Speeding,5,4
+657,Gas leak,00:33,,1,6
+658,"Flood",18:43,,3,1
+659,Car Run Over People,21:06,Speeding,3,1
+660,"Flood",08:40,,3,1
+661,Car Crash,08:33,Driver Recklessness,1,4
+662,Car Crash,09:32,Driver Recklessness,5,3
+663,"Fires",09:47,,4,4
+664,Car Crash,06:51,Driver Recklessness,2,2
+665,Car Crash,00:32,Driver Recklessness,4,4
+666,Car Crash,05:10,Ebriedad del conductor,3,1
+667,Car Run Over People,16:31,Driver Recklessness,1,6
+668,Car Cluelessness,20:00,Driver Recklessness,3,3
+669,Car Crash,13:12,Driver Recklessness,2,2
+670,Car Crash,16:52,Driver Recklessness,5,1
+671,"Fires",08:09,,1,2
+672,Car Crash,08:35,Speeding,4,1
+673,Car Crash,14:12,Speeding,3,1
+674,Car Run Over People,16:38,Driver Recklessness,2,2
+675,Car Crash,16:56,Driver Recklessness,1,1
+676,Car Crash,18:03,Driver Recklessness,2,2
+677,Car Crash,21:16,Driver Recklessness,1,1
+678,Car Crash,09:02,Speeding,1,1
+679,Car Crash,13:44,Driver Recklessness,4,2
+680,Car Crash,18:45,Driver Recklessness,3,2
+681,Car Crash,14:45,Driver Recklessness,5,3
+682,Car Crash,11:32,Falta de luces,1,1
+683,Car Crash,11:10,Driver Recklessness,1,1
+684,Car Cluelessness,23:44,Driver Recklessness,5,3
+685,Car Run Over People,08:40,Speeding,4,1
+686,Car Crash,23:09,Driver Recklessness,3,2
+687,Car Crash,15:28,Driver Recklessness,3,1
+713,Car Crash,22:26,Driver Recklessness,1,5
+714,Car Crash,15:17,Driver Recklessness,4,3
+715,Car Crash,14:54,Ebriedad del conductor,4,3
+716,Car Crash,13:02,Speeding,3,2
+717,Car Cluelessness,12:45,Driver Recklessness,1,6
+718,Car Cluelessness,06:20,Driver Recklessness,3,2
+719,Car Cluelessness,04:05,Driver Recklessness,1,5
+720,Car Cluelessness,06:36,Driver Recklessness,2,5
+722,Car Cluelessness,15:10,Speeding,2,7
+723,Car Cluelessness,22:27,Driver Recklessness,2,2
+724,Car Rollover,11:14,Driver Recklessness,2,6
+725,"Fires",15:54,,2,5
+726,"Fires",15:50,,2,5
+727,"Flood",10:30,,5,1
+728,Car Run Over People,22:16,Driver Recklessness,3,3
+729,Car Run Over People,22:13,Imprudencia del peatón,3,3
+730,Car Run Over People,22:25,Driver Recklessness,5,3
+731,Car Run Over People,08:17,Speeding,4,2
+732,Car Run Over People,22:34,Driver Recklessness,2,2
+733,Car Run Over People,07:43,Driver Recklessness,3,1
+734,Car Run Over People,14:47,Driver Recklessness,4,3
+735,People Falls,19:14,,5,4
+736,People Falls,13:36,,1,5
+737,People Falls,18:47,,4,3
+738,People Falls,17:16,,4,1
+739,Gas leak,22:41,,3,2
